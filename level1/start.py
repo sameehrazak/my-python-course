@@ -1,0 +1,1 @@
+print("Hey!, Everyone \n Welcome to brand new course for mastering python with Sameeh Razak")
